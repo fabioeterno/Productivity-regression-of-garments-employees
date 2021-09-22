@@ -1,7 +1,7 @@
 # Productivity-regression-of-garments-employees
 Implementation of a regression algorithm to predict the productivity of the garment employees.
 
-In this algorithm I have exploited the statmodels package in order to analyze the relationship between predictors and response variable.
+In this notebook I have exploited the statmodels package in order to analyze the relationship between predictors and response variable.
 I have tested different machine learning algorithm, including a fully connected neural network.
 
 The best result has been achieved by the Xgboost and Random forest regressor algorithms.
